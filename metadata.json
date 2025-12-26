@@ -1,0 +1,8 @@
+
+{
+  "name": "M&M Minimart",
+  "description": "A modern store inventory system for M&M Minimart that uses Gemini AI as a universal scanner to identify products and barcodes, managing stock ins and outs with real-time analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
